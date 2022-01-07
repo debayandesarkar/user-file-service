@@ -1,7 +1,4 @@
 jsmith:x:1001:1000:Jhon Smith,Room 1007,(234)555-8910,(234)555-0044:/home/jsmith:/bin/sh
-debsarkar:x:1001:1000:Debayan,Room 1008,(234)555-8730,(234)555-0046:/home/debsarkar:/bin/sh
-madlina:x:1001:1000:Madhulina,Room 1008,(234)555-8972,(234)555-0068:/home/madlina:/bin/sh
-mvakil:x:1001:1000:Milind Vakil,Room 1009,(234)555-8987,(234)555-1270:/home/mvakil:/bin/sh
-mvakil:x:1001:1000:Milind Vakil,Room 1009,(234)555-8987,(234)555-1270:/home/mvakil:/bin/sh
-mvakil:x:1001:1000:Milind Vakil,Room 1009,(234)555-8987,(234)555-1270:/home/mvakil:/bin/sh
-asuhag:x:1001:1000:Ajay Suhag,Room 1009,(234)555-8987,(234)555-1270:/home/asuhag:/bin/sh
+debasarkar:x:1001:1000:Debayan,Room 1008,(234)555-8730,(234)555-0046:/home/debasarkar:/bin/sh
+madhlina:x:1001:1000:Madhulina,Room 1008,(234)555-8972,(234)555-0068:/home/madhlina:/bin/sh
+

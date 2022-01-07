@@ -4,8 +4,9 @@
 Steps to execute the service on local system.
 
 1. Clone the repository locally and open the project in IntelliJ.
-2. On IntelliJ terminal execute `./gradlew clean build` to build the project.
-3. On IntelliJ terminal execute  `./gradlew bootRun` to start the service.
+2. Ensure that you are using Java 11 or above (export JAVA_HOME=`/usr/libexec/java_home -v 11`)
+3. On IntelliJ terminal execute `./gradlew clean build` to build the project.
+4. On IntelliJ terminal execute  `./gradlew bootRun` to start the service.
 
 The service has two endpoints. After starting the service locally ,refer http://localhost:8080/swagger-ui/index.html to view the endpoints.
 

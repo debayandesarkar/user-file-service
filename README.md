@@ -1,5 +1,5 @@
 # user-file-service
-Add and retreive Users from a file.
+**Add and retrieve Users from a file.**
 
 Steps to execute the service on local system.
 
@@ -9,7 +9,7 @@ Steps to execute the service on local system.
 
 The service has two endpoints. After starting the service locally ,refer http://localhost:8080/swagger-ui/index.html to view the endpoints.
 
-1. To add users in the file , submit a post request using Swagger [http://localhost:8080/swagger-ui/index.html#/user-file/insertUserData](http://localhost:8080/swagger-ui/index.html#/user-file/insertUserData) .
+1. To add users in the file , submit a post request using Swagger link [http://localhost:8080/swagger-ui/index.html#/user-file/insertUserData](http://localhost:8080/swagger-ui/index.html#/user-file/insertUserData) .
 2. Click the "**Try it out**" button on the right-hand corner and post the below example request body. Change values to submit multiple requests.
 
 `   { "userID": "debadesarkar",
